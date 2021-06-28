@@ -1,0 +1,3 @@
+# These appear to just be duplicates of the source files,
+# but with outputs removed in the case of .ipynb
+.ipynb_checkpoints/
